@@ -6,7 +6,6 @@
 
 - Linkedin: https://www.linkedin.com/in/muhammad-mehadi/
 - Email: mehadi.developer@gmail.com
-- Mobile-Number: +8801724322401
 
 <!---
 Programmer-Mehadi/Programmer-Mehadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
